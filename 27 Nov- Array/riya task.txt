@@ -1,0 +1,5 @@
+Q1) WAP to input 5 elements from user in array and print reverse of it.
+
+Q2) WAP to input 5 values from user in array and copy the values in another array and print the same.
+
+Q3) WAP to input 5 values from user and print maximum and minimum value.
