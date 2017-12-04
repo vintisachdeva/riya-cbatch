@@ -1,0 +1,84 @@
+
+1 2
+3 4
+
+1 2
+3 4
+
+result:
+
+2 4
+6 8
+
+
+
+Functions
+String
+Structure and Union
+File Handling
+
+Functions: 
+
+	return_type function_name()
+
+	void main()
+
+	//void --> it will return nothing
+	// int, char, float, long, double
+
+	double print_result() --> return statement
+
+4 types of function
+
+--> no return type, no arguments
+
+	void sum()
+
+--> no return type, with arguments
+	
+	void sum(int first, int second)	
+
+--> with return type, no arguments
+	
+	int sum() { 
+	
+	return 0;
+	}
+
+--> with return type, with arguments
+
+	int sum(int first, int second) // 10, 20
+	{
+		return first + second;// 10 + 20  = 30
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
