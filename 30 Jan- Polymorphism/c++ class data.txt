@@ -1,0 +1,35 @@
+--> Header File --> Predefined files Library files
+
+// predefined function provided by c and further used by c++
+
+//compiler
+
+void main()	--> Function
+{
+first line
+second line
+-----
+---
+---
+}
+
+return_type nameOfFunction(No. of Arguments){
+}
+
+
+identifier --> name of variable, name of function, etc
+keywords --> predefined words or resereved words having some meaning 
+
+variables --> type and value
+	syntax:
+		
+		datatype variable_name = variable_value
+		int value = 10;
+datatypes
+
+
+
+10*20 = 200
+
+idle --> 
+() --> function

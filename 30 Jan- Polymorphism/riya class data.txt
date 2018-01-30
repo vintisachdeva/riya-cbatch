@@ -1,0 +1,25 @@
+C++
+
+
+OOPS Features:
+
+--> class and object
+--> constructor and destructor
+--> inheritance
+--> encapsulation
+--> data hiding
+--> polymorphism 
+
+Data Hiding --> hide the private data or unrequired data from user and show only esssential things.
+
+data hidding --> public (accessible to all), protected(access through inheritance) , private(access within a class)
+
+encapsulation -> wrapping up of data into a single unit. eg--> 
+class --> variables, functions, constructors, destructors, etc
+
+polymorphism --> one way many forms
+
+--> eg --> << operator --> bitwise operator--> bits shift
+
+
+
